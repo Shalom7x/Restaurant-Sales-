@@ -2,7 +2,8 @@
 
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/082272c8-43cb-4068-8936-7b2fb295f284" />
 
-This repository contains a comprehensive data analysis of a restaurant’s operations from January to December 2022. It includes statistical evaluations, business intelligence insights, and a Power BI dashboard designed to support strategic decision-making.
+
+## This repository contains a comprehensive data analysis of a restaurant’s operations from January to December 2022. It includes statistical evaluations, business intelligence insights, and a Power BI dashboard designed to support strategic decision-making.
 
 ##  Contents
 
