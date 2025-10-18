@@ -24,4 +24,10 @@ This project helps uncover customer preferences, pricing effectiveness, and oper
 
 ---
 
-Let me know if you’d like a matching README intro or tags to improve discoverability!
+## 🤝 Collaboration & Contact
+
+I’m open to collaborating on projects related to **data analysis**, **statistical modeling**, and **data visualization**.
+
+Feel free to reach out:
+- 📧 Email: [fidelemailbox@yahoo.fr](mailto:fidelemailbox@yahoo.fr)
+- 📱 WhatsApp: +234 805 888 4422
