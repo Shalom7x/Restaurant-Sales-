@@ -1,8 +1,8 @@
-# 📊 Restaurant Data Analysis & Dashboard
+#  Restaurant Data Analysis & Dashboard
 
 This repository contains a comprehensive data analysis of a restaurant’s operations from January to December 2022. It includes statistical evaluations, business intelligence insights, and a Power BI dashboard designed to support strategic decision-making.
 
-## 📁 Contents
+##  Contents
 
 - **Raw and prepared datasets**: Orders, items, and time-based breakdowns  
 - **Statistical analysis**: Descriptive statistics, regression, and ANOVA  
@@ -10,7 +10,7 @@ This repository contains a comprehensive data analysis of a restaurant’s opera
 - **Top-selling items**: Ranked by quantity and revenue  
 - **Time block analysis**: Revenue trends across daily time segments  
 
-## 📊 Power BI Dashboard Highlights
+##  Power BI Dashboard Highlights
 
 - **Profit by item**  
 - **Sales count by year, quarter, and month**  
