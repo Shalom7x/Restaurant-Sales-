@@ -96,4 +96,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ##  Acknowledgments
 
-Thanks to all contributors, mentors, and data providers who supported this project. Special appreciation to the restaurant team for sharing operational data.
+Thanks to the data providers.
