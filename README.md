@@ -31,9 +31,9 @@
 
 | Metric              | Value         |
 |---------------------|---------------|
-| Total Revenue       | ₦3,926,179    |
-| Total Cost          | ₦3,311,957.48 |
-| Total Profit        | ₦614,221.52   |
+| Total Revenue       | 3,926,179    |
+| Total Cost          | 3,311,957.48 |
+| Total Profit        | 614,221.52   |
 | Number of Items     | 71            |
 | Orders Analyzed     | 73,000        |
 
@@ -43,7 +43,7 @@
 
 ###  Descriptive Statistics
 - Price, cost, and profit distributions are right-skewed
-- Mean price: ₦53.78 | Mean cost: ₦45.37 | Mean profit: ₦8.41
+- Mean price: 53.78 | Mean cost: 45.37 | Mean profit: 8.41
 
 ###  Regression Model
 - Profit modeled as: `Profit = Price – Cost`
